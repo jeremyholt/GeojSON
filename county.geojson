@@ -5,6 +5,7 @@ FID: 0,
 AREA: 29053000000,
 PERIMETER: 701714.063,
 COUNTY_C_: 2
+}
 },
 geometry: {
 type: "Polygon",
