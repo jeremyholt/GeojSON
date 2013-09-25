@@ -1,18 +1,18 @@
 {
-type: "FeatureCollection",
-features: [
+"type": "FeatureCollection",
+"features": [
 {
-type: "Feature",
-properties: {
-Attribute1: 1,
-Trail_desi: "Chippewa Trail",
-Jurisdicti: null,
-Segment_le: 12413.1713409,
-Shape_Leng: 12412.6970142
+"type": "Feature",
+"properties": {
+"Attribute1": 1,
+"Trail_desi": "Chippewa Trail",
+"Jurisdicti": null,
+"Segment_le": 12413.1713409,
+"Shape_Leng": 12412.6970142
 },
-geometry: {
-type: "LineString",
-coordinates: [
+"geometry": {
+"type": "LineString",
+"coordinates": [
 [
 346063.5691717966,
 292964.9108045223
@@ -121,17 +121,17 @@ coordinates: [
 }
 },
 {
-type: "Feature",
-properties: {
-Attribute1: 2,
-Trail_desi: "Chippewa Trail",
-Jurisdicti: null,
-Segment_le: 3228.5718116,
-Shape_Leng: 3228.44853056
+"type": "Feature",
+"properties": {
+"Attribute1": 2,
+"Trail_desi": "Chippewa Trail",
+"Jurisdicti": null,
+"Segment_le": 3228.5718116,
+"Shape_Leng": 3228.44853056
 },
-geometry: {
-type: "LineString",
-coordinates: [
+"geometry": {
+"type": "LineString",
+"coordinates": [
 [
 342705.1287102133,
 279778.28330643894
@@ -224,17 +224,17 @@ coordinates: [
 }
 },
 {
-type: "Feature",
-properties: {
-Attribute1: 3,
-Trail_desi: "Chippewa Trail",
-Jurisdicti: null,
-Segment_le: 2530.51011876,
-Shape_Leng: 2530.41385262
+"type": "Feature",
+"properties": {
+"Attribute1": 3,
+"Trail_desi": "Chippewa Trail",
+"Jurisdicti": null,
+"Segment_le": 2530.51011876,
+"Shape_Leng": 2530.41385262
 },
-geometry: {
-type: "MultiLineString",
-coordinates: [
+"geometry": {
+"type": "MultiLineString",
+"coordinates": [
 [
 [
 342705.1287102133,
@@ -333,17 +333,17 @@ coordinates: [
 }
 },
 {
-type: "Feature",
-properties: {
-Attribute1: 4,
-Trail_desi: null,
-Jurisdicti: null,
-Segment_le: 14882.2132074,
-Shape_Leng: 14881.6461517
+"type": "Feature",
+"properties": {
+"Attribute1": 4,
+"Trail_desi": null,
+"Jurisdicti": null,
+"Segment_le": 14882.2132074,
+"Shape_Leng": 14881.6461517
 },
-geometry: {
-type: "LineString",
-coordinates: [
+"geometry": {
+"type": "LineString",
+"coordinates": [
 [
 347493.5610624633,
 290097.76201127225
@@ -452,17 +452,17 @@ coordinates: [
 }
 },
 {
-type: "Feature",
-properties: {
-Attribute1: 6,
-Trail_desi: "Lakeshore Trail",
-Jurisdicti: null,
-Segment_le: 3825.21253257,
-Shape_Leng: 3825.06653777
+"type": "Feature",
+"properties": {
+"Attribute1": 6,
+"Trail_desi": "Lakeshore Trail",
+"Jurisdicti": null,
+"Segment_le": 3825.21253257,
+"Shape_Leng": 3825.06653777
 },
-geometry: {
-type: "LineString",
-coordinates: [
+"geometry": {
+"type": "LineString",
+"coordinates": [
 [
 337473.59422579664,
 279185.16441393894
@@ -539,17 +539,17 @@ coordinates: [
 }
 },
 {
-type: "Feature",
-properties: {
-Attribute1: 7,
-Trail_desi: "Lakeshore Trail",
-Jurisdicti: null,
-Segment_le: 9639.82501833,
-Shape_Leng: 9628.66158445
+"type": "Feature",
+"properties": {
+"Attribute1": 7,
+"Trail_desi": "Lakeshore Trail",
+"Jurisdicti": null,
+"Segment_le": 9639.82501833,
+"Shape_Leng": 9628.66158445
 },
-geometry: {
-type: "LineString",
-coordinates: [
+"geometry": {
+"type": "LineString",
+"coordinates": [
 [
 335681.4547654633,
 278402.5672258556
@@ -746,17 +746,17 @@ coordinates: [
 }
 },
 {
-type: "Feature",
-properties: {
-Attribute1: 8,
-Trail_desi: "Lakeshore Trail",
-Jurisdicti: null,
-Segment_le: 265.210090768,
-Shape_Leng: 265.200184076
+"type": "Feature",
+"properties": {
+"Attribute1": 8,
+"Trail_desi": "Lakeshore Trail",
+"Jurisdicti": null,
+"Segment_le": 265.210090768,
+"Shape_Leng": 265.200184076
 },
-geometry: {
-type: "LineString",
-coordinates: [
+"geometry": {
+"type": "LineString",
+"coordinates": [
 [
 333471.00183729664,
 276983.35549735563
@@ -769,17 +769,17 @@ coordinates: [
 }
 },
 {
-type: "Feature",
-properties: {
-Attribute1: 9,
-Trail_desi: "Lakeshore Trail",
-Jurisdicti: null,
-Segment_le: 1348.78004462,
-Shape_Leng: 1348.72835653
+"type": "Feature",
+"properties": {
+"Attribute1": 9,
+"Trail_desi": "Lakeshore Trail",
+"Jurisdicti": null,
+"Segment_le": 1348.78004462,
+"Shape_Leng": 1348.72835653
 },
-geometry: {
-type: "LineString",
-coordinates: [
+"geometry": {
+"type": "LineString",
+"coordinates": [
 [
 332984.21573738,
 275089.2382226056
@@ -820,17 +820,17 @@ coordinates: [
 }
 },
 {
-type: "Feature",
-properties: {
-Attribute1: 10,
-Trail_desi: "Downtown Trail",
-Jurisdicti: null,
-Segment_le: 1929.11220944,
-Shape_Leng: 1929.0384764
+"type": "Feature",
+"properties": {
+"Attribute1": 10,
+"Trail_desi": "Downtown Trail",
+"Jurisdicti": null,
+"Segment_le": 1929.11220944,
+"Shape_Leng": 1929.0384764
 },
-geometry: {
-type: "LineString",
-coordinates: [
+"geometry": {
+"type": "LineString",
+"coordinates": [
 [
 338649.00132379663,
 279025.9439318556
@@ -891,17 +891,17 @@ coordinates: [
 }
 },
 {
-type: "Feature",
-properties: {
-Attribute1: 11,
-Trail_desi: "Downtown Trail",
-Jurisdicti: null,
-Segment_le: 535.366759026,
-Shape_Leng: 535.346482513
+"type": "Feature",
+"properties": {
+"Attribute1": 11,
+"Trail_desi": "Downtown Trail",
+"Jurisdicti": null,
+"Segment_le": 535.366759026,
+"Shape_Leng": 535.346482513
 },
-geometry: {
-type: "LineString",
-coordinates: [
+"geometry": {
+"type": "LineString",
+"coordinates": [
 [
 338915.19304862997,
 278219.4284845223
@@ -914,17 +914,17 @@ coordinates: [
 }
 },
 {
-type: "Feature",
-properties: {
-Attribute1: 12,
-Trail_desi: "Putnam Park Trail",
-Jurisdicti: null,
-Segment_le: 8782.24603565,
-Shape_Leng: 8781.91093863
+"type": "Feature",
+"properties": {
+"Attribute1": 12,
+"Trail_desi": "Putnam Park Trail",
+"Jurisdicti": null,
+"Segment_le": 8782.24603565,
+"Shape_Leng": 8781.91093863
 },
-geometry: {
-type: "LineString",
-coordinates: [
+"geometry": {
+"type": "LineString",
+"coordinates": [
 [
 343477.05695637997,
 275379.1461073556
@@ -1129,17 +1129,17 @@ coordinates: [
 }
 },
 {
-type: "Feature",
-properties: {
-Attribute1: 13,
-Trail_desi: "Putnam Park Trail",
-Jurisdicti: null,
-Segment_le: 1031.62877272,
-Shape_Leng: 1031.58963722
+"type": "Feature",
+"properties": {
+"Attribute1": 13,
+"Trail_desi": "Putnam Park Trail",
+"Jurisdicti": null,
+"Segment_le": 1031.62877272,
+"Shape_Leng": 1031.58963722
 },
-geometry: {
-type: "LineString",
-coordinates: [
+"geometry": {
+"type": "LineString",
+"coordinates": [
 [
 338146.78972979664,
 274206.90796627227
@@ -1168,17 +1168,17 @@ coordinates: [
 }
 },
 {
-type: "Feature",
-properties: {
-Attribute1: 14,
-Trail_desi: "Chippewa Trail",
-Jurisdicti: null,
-Segment_le: 565.505668656,
-Shape_Leng: 565.483965854
+"type": "Feature",
+"properties": {
+"Attribute1": 14,
+"Trail_desi": "Chippewa Trail",
+"Jurisdicti": null,
+"Segment_le": 565.505668656,
+"Shape_Leng": 565.483965854
 },
-geometry: {
-type: "LineString",
-coordinates: [
+"geometry": {
+"type": "LineString",
+"coordinates": [
 [
 338923.3895545466,
 274802.38807452226
@@ -1191,17 +1191,17 @@ coordinates: [
 }
 },
 {
-type: "Feature",
-properties: {
-Attribute1: 15,
-Trail_desi: "Soccer Park Trail",
-Jurisdicti: null,
-Segment_le: 3248.12498395,
-Shape_Leng: 3248.00077076
+"type": "Feature",
+"properties": {
+"Attribute1": 15,
+"Trail_desi": "Soccer Park Trail",
+"Jurisdicti": null,
+"Segment_le": 3248.12498395,
+"Shape_Leng": 3248.00077076
 },
-geometry: {
-type: "LineString",
-coordinates: [
+"geometry": {
+"type": "LineString",
+"coordinates": [
 [
 335458.73834737996,
 269237.2486142723
@@ -1278,17 +1278,17 @@ coordinates: [
 }
 },
 {
-type: "Feature",
-properties: {
-Attribute1: 17,
-Trail_desi: "Gateway Dr Trail",
-Jurisdicti: null,
-Segment_le: 2745.32536755,
-Shape_Leng: 2745.22045489
+"type": "Feature",
+"properties": {
+"Attribute1": 17,
+"Trail_desi": "Gateway Dr Trail",
+"Jurisdicti": null,
+"Segment_le": 2745.32536755,
+"Shape_Leng": 2745.22045489
 },
-geometry: {
-type: "LineString",
-coordinates: [
+"geometry": {
+"type": "LineString",
+"coordinates": [
 [
 356995.03254504665,
 266649.33876385563
@@ -1365,17 +1365,17 @@ coordinates: [
 }
 },
 {
-type: "Feature",
-properties: {
-Attribute1: 20,
-Trail_desi: "??",
-Jurisdicti: null,
-Segment_le: 6303.97883725,
-Shape_Leng: 6303.73873966
+"type": "Feature",
+"properties": {
+"Attribute1": 20,
+"Trail_desi": "??",
+"Jurisdicti": null,
+"Segment_le": 6303.97883725,
+"Shape_Leng": 6303.73873966
 },
-geometry: {
-type: "LineString",
-coordinates: [
+"geometry": {
+"type": "LineString",
+"coordinates": [
 [
 349987.8772680466,
 288488.5257284389
@@ -1620,17 +1620,17 @@ coordinates: [
 }
 },
 {
-type: "Feature",
-properties: {
-Attribute1: 21,
-Trail_desi: "??",
-Jurisdicti: null,
-Segment_le: 3637.98663241,
-Shape_Leng: 3637.8480067
+"type": "Feature",
+"properties": {
+"Attribute1": 21,
+"Trail_desi": "??",
+"Jurisdicti": null,
+"Segment_le": 3637.98663241,
+"Shape_Leng": 3637.8480067
 },
-geometry: {
-type: "LineString",
-coordinates: [
+"geometry": {
+"type": "LineString",
+"coordinates": [
 [
 347493.5610624633,
 290097.76201127225
@@ -1811,17 +1811,17 @@ coordinates: [
 }
 },
 {
-type: "Feature",
-properties: {
-Attribute1: 22,
-Trail_desi: "??",
-Jurisdicti: null,
-Segment_le: 158.83512604,
-Shape_Leng: 158.828921392
+"type": "Feature",
+"properties": {
+"Attribute1": 22,
+"Trail_desi": "??",
+"Jurisdicti": null,
+"Segment_le": 158.83512604,
+"Shape_Leng": 158.828921392
 },
-geometry: {
-type: "LineString",
-coordinates: [
+"geometry": {
+"type": "LineString",
+"coordinates": [
 [
 349956.58664821327,
 288551.10729618894
@@ -1838,17 +1838,17 @@ coordinates: [
 }
 },
 {
-type: "Feature",
-properties: {
-Attribute1: 23,
-Trail_desi: null,
-Jurisdicti: null,
-Segment_le: 795.312981566,
-Shape_Leng: 795.282658565
+"type": "Feature",
+"properties": {
+"Attribute1": 23,
+"Trail_desi": null,
+"Jurisdicti": null,
+"Segment_le": 795.312981566,
+"Shape_Leng": 795.282658565
 },
-geometry: {
-type: "LineString",
-coordinates: [
+"geometry": {
+"type": "LineString",
+"coordinates": [
 [
 329546.5930194633,
 272642.5551238556
@@ -1861,17 +1861,17 @@ coordinates: [
 }
 },
 {
-type: "Feature",
-properties: {
-Attribute1: 24,
-Trail_desi: null,
-Jurisdicti: null,
-Segment_le: 1127.2859986,
-Shape_Leng: 1127.24318757
+"type": "Feature",
+"properties": {
+"Attribute1": 24,
+"Trail_desi": null,
+"Jurisdicti": null,
+"Segment_le": 1127.2859986,
+"Shape_Leng": 1127.24318757
 },
-geometry: {
-type: "LineString",
-coordinates: [
+"geometry": {
+"type": "LineString",
+"coordinates": [
 [
 349748.54736612993,
 265399.99611818895
@@ -1920,17 +1920,17 @@ coordinates: [
 }
 },
 {
-type: "Feature",
-properties: {
-Attribute1: 25,
-Trail_desi: null,
-Jurisdicti: null,
-Segment_le: 692.334990728,
-Shape_Leng: 692.308247416
+"type": "Feature",
+"properties": {
+"Attribute1": 25,
+"Trail_desi": null,
+"Jurisdicti": null,
+"Segment_le": 692.334990728,
+"Shape_Leng": 692.308247416
 },
-geometry: {
-type: "LineString",
-coordinates: [
+"geometry": {
+"type": "LineString",
+"coordinates": [
 [
 349748.54736612993,
 265399.99611818895
@@ -1947,17 +1947,17 @@ coordinates: [
 }
 },
 {
-type: "Feature",
-properties: {
-Attribute1: 26,
-Trail_desi: null,
-Jurisdicti: null,
-Segment_le: 831.694539117,
-Shape_Leng: 831.662950833
+"type": "Feature",
+"properties": {
+"Attribute1": 26,
+"Trail_desi": null,
+"Jurisdicti": null,
+"Segment_le": 831.694539117,
+"Shape_Leng": 831.662950833
 },
-geometry: {
-type: "LineString",
-coordinates: [
+"geometry": {
+"type": "LineString",
+"coordinates": [
 [
 349756.1903954633,
 265369.4246570223
@@ -1970,17 +1970,17 @@ coordinates: [
 }
 },
 {
-type: "Feature",
-properties: {
-Attribute1: 27,
-Trail_desi: null,
-Jurisdicti: null,
-Segment_le: 1326.07236363,
-Shape_Leng: 1326.02188436
+"type": "Feature",
+"properties": {
+"Attribute1": 27,
+"Trail_desi": null,
+"Jurisdicti": null,
+"Segment_le": 1326.07236363,
+"Shape_Leng": 1326.02188436
 },
-geometry: {
-type: "LineString",
-coordinates: [
+"geometry": {
+"type": "LineString",
+"coordinates": [
 [
 349719.8863342133,
 265371.3354143556
@@ -2009,17 +2009,17 @@ coordinates: [
 }
 },
 {
-type: "Feature",
-properties: {
-Attribute1: 28,
-Trail_desi: null,
-Jurisdicti: null,
-Segment_le: 5202.21698091,
-Shape_Leng: 5202.01798779
+"type": "Feature",
+"properties": {
+"Attribute1": 28,
+"Trail_desi": null,
+"Jurisdicti": null,
+"Segment_le": 5202.21698091,
+"Shape_Leng": 5202.01798779
 },
-geometry: {
-type: "LineString",
-coordinates: [
+"geometry": {
+"type": "LineString",
+"coordinates": [
 [
 349788.6726139633,
 264054.84034393897
@@ -2080,17 +2080,17 @@ coordinates: [
 }
 },
 {
-type: "Feature",
-properties: {
-Attribute1: 29,
-Trail_desi: "Chippewa Trail",
-Jurisdicti: null,
-Segment_le: 6592.59784756,
-Shape_Leng: 6592.34608988
+"type": "Feature",
+"properties": {
+"Attribute1": 29,
+"Trail_desi": "Chippewa Trail",
+"Jurisdicti": null,
+"Segment_le": 6592.59784756,
+"Shape_Leng": 6592.34608988
 },
-geometry: {
-type: "LineString",
-coordinates: [
+"geometry": {
+"type": "LineString",
+"coordinates": [
 [
 350876.57234104665,
 298156.93519735563
@@ -2115,17 +2115,17 @@ coordinates: [
 }
 },
 {
-type: "Feature",
-properties: {
-Attribute1: 32,
-Trail_desi: "Truax Trail",
-Jurisdicti: null,
-Segment_le: 4560.98386433,
-Shape_Leng: 4560.80996006
+"type": "Feature",
+"properties": {
+"Attribute1": 32,
+"Trail_desi": "Truax Trail",
+"Jurisdicti": null,
+"Segment_le": 4560.98386433,
+"Shape_Leng": 4560.80996006
 },
-geometry: {
-type: "LineString",
-coordinates: [
+"geometry": {
+"type": "LineString",
+"coordinates": [
 [
 331821.2892574633,
 287258.0209716056
@@ -2182,17 +2182,17 @@ coordinates: [
 }
 },
 {
-type: "Feature",
-properties: {
-Attribute1: 33,
-Trail_desi: "Florence St Trail",
-Jurisdicti: null,
-Segment_le: 963.211946612,
-Shape_Leng: 963.174979878
+"type": "Feature",
+"properties": {
+"Attribute1": 33,
+"Trail_desi": "Florence St Trail",
+"Jurisdicti": null,
+"Segment_le": 963.211946612,
+"Shape_Leng": 963.174979878
 },
-geometry: {
-type: "LineString",
-coordinates: [
+"geometry": {
+"type": "LineString",
+"coordinates": [
 [
 330528.1373162133,
 279672.56304543896
@@ -2261,17 +2261,17 @@ coordinates: [
 }
 },
 {
-type: "Feature",
-properties: {
-Attribute1: 34,
-Trail_desi: "phoenix park",
-Jurisdicti: null,
-Segment_le: 1079.76397502,
-Shape_Leng: 1079.72284726
+"type": "Feature",
+"properties": {
+"Attribute1": 34,
+"Trail_desi": "phoenix park",
+"Jurisdicti": null,
+"Segment_le": 1079.76397502,
+"Shape_Leng": 1079.72284726
 },
-geometry: {
-type: "LineString",
-coordinates: [
+"geometry": {
+"type": "LineString",
+"coordinates": [
 [
 338088.2373534633,
 279384.8395395223
@@ -2308,17 +2308,17 @@ coordinates: [
 }
 },
 {
-type: "Feature",
-properties: {
-Attribute1: 35,
-Trail_desi: "galloway",
-Jurisdicti: null,
-Segment_le: 2562.76880103,
-Shape_Leng: 2562.67118813
+"type": "Feature",
+"properties": {
+"Attribute1": 35,
+"Trail_desi": "galloway",
+"Jurisdicti": null,
+"Segment_le": 2562.76880103,
+"Shape_Leng": 2562.67118813
 },
-geometry: {
-type: "LineString",
-coordinates: [
+"geometry": {
+"type": "LineString",
+"coordinates": [
 [
 345994.0365024633,
 280956.0207803556
@@ -2395,17 +2395,17 @@ coordinates: [
 }
 },
 {
-type: "Feature",
-properties: {
-Attribute1: 38,
-Trail_desi: null,
-Jurisdicti: "Altoona",
-Segment_le: 3946.55666467,
-Shape_Leng: 3946.40609801
+"type": "Feature",
+"properties": {
+"Attribute1": 38,
+"Trail_desi": null,
+"Jurisdicti": "Altoona",
+"Segment_le": 3946.55666467,
+"Shape_Leng": 3946.40609801
 },
-geometry: {
-type: "LineString",
-coordinates: [
+"geometry": {
+"type": "LineString",
+"coordinates": [
 [
 347474.37048404664,
 277079.3507121889
@@ -2454,17 +2454,17 @@ coordinates: [
 }
 },
 {
-type: "Feature",
-properties: {
-Attribute1: 39,
-Trail_desi: null,
-Jurisdicti: "Eau Claire County",
-Segment_le: 6152.32946727,
-Shape_Leng: 6152.09431093
+"type": "Feature",
+"properties": {
+"Attribute1": 39,
+"Trail_desi": null,
+"Jurisdicti": "Eau Claire County",
+"Segment_le": 6152.32946727,
+"Shape_Leng": 6152.09431093
 },
-geometry: {
-type: "LineString",
-coordinates: [
+"geometry": {
+"type": "LineString",
+"coordinates": [
 [
 350584.83276704664,
 258966.05819868893
@@ -2517,17 +2517,17 @@ coordinates: [
 }
 },
 {
-type: "Feature",
-properties: {
-Attribute1: 42,
-Trail_desi: null,
-Jurisdicti: "WI DNR",
-Segment_le: 5156.94696039,
-Shape_Leng: 5156.7798619
+"type": "Feature",
+"properties": {
+"Attribute1": 42,
+"Trail_desi": null,
+"Jurisdicti": "WI DNR",
+"Segment_le": 5156.94696039,
+"Shape_Leng": 5156.7798619
 },
-geometry: {
-type: "LineString",
-coordinates: [
+"geometry": {
+"type": "LineString",
+"coordinates": [
 [
 321245.6473510466,
 263477.99208818894
@@ -4992,17 +4992,17 @@ coordinates: [
 }
 },
 {
-type: "Feature",
-properties: {
-Attribute1: 43,
-Trail_desi: null,
-Jurisdicti: "WI DNR",
-Segment_le: 652.40305654,
-Shape_Leng: 652.378058201
+"type": "Feature",
+"properties": {
+"Attribute1": 43,
+"Trail_desi": null,
+"Jurisdicti": "WI DNR",
+"Segment_le": 652.40305654,
+"Shape_Leng": 652.378058201
 },
-geometry: {
-type: "LineString",
-coordinates: [
+"geometry": {
+"type": "LineString",
+"coordinates": [
 [
 319064.2583411299,
 259205.8595563556
@@ -5015,17 +5015,17 @@ coordinates: [
 }
 },
 {
-type: "Feature",
-properties: {
-Attribute1: 44,
-Trail_desi: null,
-Jurisdicti: "WI DNR",
-Segment_le: 9564.22684729,
-Shape_Leng: 9563.89176086
+"type": "Feature",
+"properties": {
+"Attribute1": 44,
+"Trail_desi": null,
+"Jurisdicti": "WI DNR",
+"Segment_le": 9564.22684729,
+"Shape_Leng": 9563.89176086
 },
-geometry: {
-type: "LineString",
-coordinates: [
+"geometry": {
+"type": "LineString",
+"coordinates": [
 [
 318936.98595788,
 258899.61082502228
